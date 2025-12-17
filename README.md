@@ -1,7 +1,7 @@
 # Lambda Supplier AWS
 Lambda para la creación de proveedores.
 
-## Aquitectura
+## Arquitectura
 ![Arquitectura](Arquitectura.png)
 
 ## Instalación
